@@ -1,0 +1,11 @@
+**revision** =  #input("enter your mobline number ")
+#input("kuch type mat karo")
+#a=input("hello world aapka name kya h ")
+#print(a)
+#print(type(a))
+#a=input("hello world aapka name kya h ")
+#a=int(a)
+
+#print(a)
+#print(type(a))
+print(2+5)
