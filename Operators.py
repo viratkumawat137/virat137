@@ -137,6 +137,13 @@ milk_prize=milk_quantity*20
 rise_prize=rise_quantity*10
 print("total amount" ,milk_prize+rise_prize)
 
+male_age=int(input("enter a age "))
+female_age=int(input("enter a age"))
+print("total age of male and female", male_age + female_age )
+print("difference of age is ", female_age - male_age)
+print("multiplicasion of age is ", male_age * female_age)
+
+
 
 
 
