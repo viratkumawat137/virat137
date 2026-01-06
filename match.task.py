@@ -11,3 +11,5 @@ if print(a%b):
 	print("check now")
 if print(a/b):
 	print("check now")
+if print(a**b):
+	print("check now")
