@@ -22,3 +22,4 @@ a=int(input("type kro sir ji "))
 while a <= 10:
 	print(a)
 	a +=1  '''
+
