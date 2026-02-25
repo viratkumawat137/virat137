@@ -77,14 +77,54 @@ i=1
 while i<=10:
     print(num*i)
     i+=1 """
-
-
-
+"""
 num=5
 i=1 
 while i<=10:
     print(num,"*",i,"=",num*i)
-    i+=1
+    i+=1  """
+
+"""
+counter=5
+while counter <= 50:
+    print(counter)
+    counter += 5  """
+"""
+counter=5
+while counter <= 50:
+    counter += 5  
+    print(counter)  
+"""
+"""
+counter=1
+while counter < 10 :
+    counter +=1
+    print(counter)   """
+"""
+counter=0
+while counter < 10 :
+    counter +=1
+    print(counter) """
+"""
+counter=0
+while counter < 10 :
+    print(counter)
+    counter +=1  """
+"""
+counter=0
+while counter <= 10 :
+    print(counter)
+    counter +=1   """
+
+"""
+counter=1
+while counter <= 10 :
+    print(counter)
+    counter +=2 """
+
+
+
+
 
 
 
