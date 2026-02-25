@@ -124,6 +124,67 @@ while counter <= 10 :
 
 
 
+#homawork 25-02-2026
+"""
+5=int(input("first number batao "))
+2=int(input("second number batao"))
+8=int(input("third number batao"))
+largest = 5
+while  largest < 2:
+    largest = 2
+while largest < 8:
+    largest = 8
+print( largest)   """
+
+"""
+a=int(input("first number batao "))
+b=int(input("second number batao"))
+c=int(input("third number batao"))
+largest = a
+while  largest < b:
+    largest = b
+while largest < c:
+    largest = c
+print( largest) """
+
+"""
+
+a=int(input("first number batao "))
+b=int(input("second number batao"))
+c=int(input("third number batao"))
+largest = a
+if     largest < b:
+    largest = b
+if     largest < c:
+    largest = c
+print( largest)  """
+
+
+"""
+a=int(input("first number batao "))
+b=int(input("second number batao"))
+c=int(input("third number batao"))
+largest = b
+if     largest < a:
+    largest = a
+if     largest < c:
+    largest = c
+print( largest)   """
+
+"""
+a=int(input("first number batao "))
+b=int(input("second number batao"))
+c=int(input("third number batao"))
+largest = c
+if     largest < a:
+    largest = a
+if     largest < b:
+    largest = b
+print( largest)   """
+
+
+
+
 
 
 
