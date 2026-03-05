@@ -12,5 +12,22 @@ if print(a%b):
 if print(a/b):
 	print("check now")
 if print(a**b):
-	print("check now")
+	print("check now") 
+
+char=input("enter only one charactar:")
+match char:
+    case"a":
+        print("vowel")
+    case"e":
+     print("vowel")
+    case "i":
+     print("vowel")
+    case "o":
+     print("vowel")
+    case "u":
+     print("vowel")
+    case _:
+     print("consnent")
+
+
 
