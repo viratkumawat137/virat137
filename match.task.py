@@ -31,3 +31,15 @@ match char:
 
 
 
+char = input("Enter only 1 character: ")
+
+match char:
+    case "a" | "e" | "i" | "o" | "u":
+        print("vowel")
+    case _:
+        print("consonant")
+
+
+
+
+
