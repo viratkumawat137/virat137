@@ -374,13 +374,27 @@ print( largest)   """
 
 
 ## Give me multiply of all the numbers from 1 to 5:
-counter = 1
-sum = 1
-while counter <= 5:
-    sum = sum * counter
-    counter += 1
-print(sum)
+# counter = 1
+# sum = 1
+# while counter <= 5:
+#     sum = sum * counter
+#     counter += 1
+# print(sum)
 
+
+# # practice
+# i = 1
+# count = 5
+# while i <= 5:
+#     print((str(i) + " ") * count)
+#     i += 1
+#     count -= 1
+
+
+# counter=5
+# while counter >= 1:
+#     print(str("5") * counter)
+#     counter -= 1
 
 
 
